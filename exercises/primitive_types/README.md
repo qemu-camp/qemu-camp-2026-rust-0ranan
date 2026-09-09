@@ -4,4 +4,4 @@
 
 ## 进一步了解
 
-- [Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
+- [Data Types](https://doc.rust-lang.org/book/ch03-0 2-data-types.html)
