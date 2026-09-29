@@ -18,3 +18,5 @@ public/
 
 # Generated grading results
 .github/result/check_result.json
+
+test
