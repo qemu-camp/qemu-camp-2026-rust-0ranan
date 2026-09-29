@@ -16,7 +16,6 @@ fn main() {
 
 fn sale_price(price: i32) -> i32{
     if is_even(price) {
-        5;
         price - 10
     } else {
         price - 3
